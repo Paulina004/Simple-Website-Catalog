@@ -6,7 +6,7 @@
 ### Link to Catalog & Brief Report
 > [Website Catalog]()
 > 
-> [Project Report]()
+> [Project Report](p5report.pdf)
 
 ### Websites Included in the Catalog (w/ Repo Links)
 - [Project 1: Basic Example Resume Website](https://github.com/Paulina004/Basic-Example-Resume-Website)
