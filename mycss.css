@@ -1,0 +1,32 @@
+header
+{
+    background-image: url("img/main-bg.png") !important; 
+}
+.btn-tweaks:hover
+{
+    background-color: pink;
+    border-color: white;
+    animation: tada;
+    animation-duration: 1s;
+}
+.img-tweaks:hover 
+{
+    opacity: 0.8; 
+    animation: pulse;
+    animation-duration: 1s;
+}
+.btn-tweaks
+{
+    background-color: lightpink;
+    border-color: white;
+}
+.subtitle-tweaks
+{
+    font-size: 20pt;
+    font-weight: 300;  
+}
+.title-tweaks
+{
+    font-size:40pt;
+    font-weight: 500;
+}
