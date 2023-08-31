@@ -4,7 +4,7 @@
 > This project was created for learning purposes only. ***Please refrain from copying, sharing, and/or using any of my work.*** Thank you.
 
 ### Link to Catalog & Brief Report
-> [Website Catalog]()
+> [Website Catalog](https://paulina004.github.io/Website-Catalog/)
 > 
 > [Project Report](p5report.pdf)
 
